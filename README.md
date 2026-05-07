@@ -1,4 +1,4 @@
-# Adversarial Swarm — Market Intelligence System
+# Market Intelligence System
 
 A production-grade, multi-agent AI system for market movement prediction. The system deploys an **Adversarial Swarm** architecture: a Bull Agent and Bear Agent debate every thesis, and an Arbiter Agent issues the final BUY / HOLD / SELL verdict — all in real-time with a premium dark-mode dashboard.
 
